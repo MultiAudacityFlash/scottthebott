@@ -9,6 +9,9 @@ bot.on('ready', () =>{
 })
 
 bot.on('message', msg=>{
+    if(msg.author.bot){
+        return;
+    }
     if(msg.content ===  "hey all"){
         msg.channel.sendMessage(`SCOTT HERE`);
     }
@@ -91,6 +94,30 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
         msg.channel.sendMessage(`*I __ATE HERE.__*
         
 https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJeDf1.jpg`);
+    }
+    if(msg.content.includes("flingsmash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("Flingsmash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("FlingSmash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("FLINGSMASH")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("fling smash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("Fling smash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("Fling Smash")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
+    }
+    if(msg.content.includes("FLING SMASH")){
+        msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
     }
 })
 
