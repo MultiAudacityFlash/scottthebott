@@ -359,6 +359,18 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("SHOVEL-WARE")){
         msg.channel.sendMessage(`Did somebody order terrible? :D`);
     }
+    if(msg.content.includes("vince young")){
+        msg.channel.sendMessage(`Ah, yes. Vince Young. The one man that could make a straight man gay and a gay man Scott.`);
+    }
+    if(msg.content.includes("Vince young")){
+        msg.channel.sendMessage(`Ah, yes. Vince Young. The one man that could make a straight man gay and a gay man Scott.`);
+    }
+    if(msg.content.includes("Vince Young")){
+        msg.channel.sendMessage(`Ah, yes. Vince Young. The one man that could make a straight man gay and a gay man Scott.`);
+    }
+    if(msg.content.includes("VINCE YOUNG")){
+        msg.channel.sendMessage(`Ah, yes. Vince Young. The one man that could make a straight man gay and a gay man Scott.`);
+    }
 })
 
 bot.login(token);
