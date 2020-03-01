@@ -119,6 +119,51 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("FLING SMASH")){
         msg.channel.sendMessage(`Never leave my house without my stack of FlingSmash copies, don't ask why they're all wet.`);
     }
+    if(msg.content.includes("awesome baby")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("Awesome baby")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("AWESOME BABY")){
+        msg.channel.sendMessage(`NO.`);
+    }
+    if(msg.content.includes("Awesome baby")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("Dick Vitale")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("dick vitale")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("DICK VITALE")){
+        msg.channel.sendMessage(`No.`);
+    }
+    if(msg.content.includes("Chibi Robo Zip Lash")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("Chibi robo zip lash")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("Chibi-Robo Zip Lash")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("Chibi-robo zip lash")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("Chibi-Robo! Zip Lash")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("CHIBI ROBO ZIP LASH")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("CHIBI-ROBO ZIP LASH")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
+    if(msg.content.includes("CHIBI-ROBO! ZIP LASH")){
+        msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
+    }
 })
 
 bot.login(token);
