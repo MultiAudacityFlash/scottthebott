@@ -377,6 +377,46 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("SEXWALL")){
         msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
     }
+    if(msg.content.includes("loot crate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("lootcrate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("Loot crate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("Lootcrate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("Loot Crate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("LootCrate")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("LOOT CRATE")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
+    if(msg.content.includes("LOOTCRATE")){
+        msg.channel.sendMessage(`I should read the news more before blowing $100 on a compound word including "loot" and "crate."
+        
+https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
+    }
 })
 
 bot.login(token);
