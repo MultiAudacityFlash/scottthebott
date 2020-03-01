@@ -18,6 +18,24 @@ bot.on('message', msg=>{
     if(msg.content ===  "HEY ALL"){
         msg.channel.sendMessage(`SCOTT HERE`);
     }
+    if(msg.content ===  "hey all!"){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
+    if(msg.content ===  "Hey all!"){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
+    if(msg.content ===  "HEY ALL!"){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
+    if(msg.content ===  "hey all."){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
+    if(msg.content ===  "Hey all."){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
+    if(msg.content ===  "HEY ALL."){
+        msg.channel.sendMessage(`SCOTT HERE`);
+    }
     if(msg.content ===  "madden 08"){
         msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
     }
