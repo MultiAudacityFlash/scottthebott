@@ -164,6 +164,24 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("CHIBI-ROBO! ZIP LASH")){
         msg.channel.sendMessage(`DID SOMEONE MENTION LETHAL INJECTION? :D`);
     }
+    if(msg.content.includes("Jontron")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
+    if(msg.content.includes("JONTRON")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
+    if(msg.content.includes("jontron")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
+    if(msg.content.includes("Jon tron")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
+    if(msg.content.includes("JON TRON")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
+    if(msg.content.includes("jon tron")){
+        msg.channel.sendMessage(`https://pbs.twimg.com/media/Dr1YWaPWwAIvqY5.jpg`);
+    }
 })
 
 bot.login(token);
