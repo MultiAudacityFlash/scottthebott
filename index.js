@@ -233,10 +233,19 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("buy house button")){
         msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
     }
+    if(msg.content.includes("Buy house button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
     if(msg.content.includes("buy-house-button")){
         msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
     }
+    if(msg.content.includes("Buy-house-button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
     if(msg.content.includes("buy-house button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("Buy-house button")){
         msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
     }
     if(msg.content.includes("Buy House Button")){
