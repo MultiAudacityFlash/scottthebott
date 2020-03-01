@@ -371,6 +371,24 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("VINCE YOUNG")){
         msg.channel.sendMessage(`Ah, yes. Vince Young. The one man that could make a straight man gay and a gay man Scott.`);
     }
+    if(msg.content.includes("sex wall")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
+    if(msg.content.includes("sexwall")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
+    if(msg.content.includes("Sex wall")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
+    if(msg.content.includes("Sexwall")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
+    if(msg.content.includes("SEX WALL")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
+    if(msg.content.includes("SEXWALL")){
+        msg.channel.sendMessage(`https://i.redd.it/unlg117utxq21.jpg`);
+    }
 })
 
 bot.login(token);
