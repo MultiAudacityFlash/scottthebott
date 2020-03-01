@@ -251,6 +251,105 @@ https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJ
     if(msg.content.includes("SAY IT WITH ME")){
         msg.channel.sendMessage(`***__GAY CONVERSION THERAPY!__***`);
     }
+    if(msg.content.includes("buy house button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("buy-house-button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("Buy House Button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("Buy-House-Button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''buy house'' button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''buy-house'' button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''buy house''-button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''Buy House'' Button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''Buy-House'' Button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''Buy House''-Button")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("BUY HOUSE BUTTON")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("BUY-HOUSE-BUTTON")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''BUY HOUSE''-BUTTON")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''BUY HOUSE'' BUTTON''")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("''BUY-HOUSE'' BUTTON''")){
+        msg.channel.sendMessage(`I BOUGHT F--KING TWENTY OF THEM.`);
+    }
+    if(msg.content.includes("slenderman")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("slender man")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("Slenderman")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("Slender man")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("Slender Man")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("SLENDERMAN")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("SLENDER MAN")){
+        msg.channel.sendMessage(`*OH SH-T, IT'S A WHITE GUY.*`);
+    }
+    if(msg.content.includes("shovelware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("shovel ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("shovel-ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("Shovelware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("Shovel ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("Shovel Ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("Shovel-ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("Shovel-Ware")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("SHOVELWARE")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("SHOVEL WARE")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
+    if(msg.content.includes("SHOVEL-WARE")){
+        msg.channel.sendMessage(`Did somebody order terrible? :D`);
+    }
 })
 
 bot.login(token);
