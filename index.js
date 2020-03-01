@@ -36,29 +36,61 @@ bot.on('message', msg=>{
     if(msg.content ===  "HEY ALL."){
         msg.channel.sendMessage(`SCOTT HERE`);
     }
-    if(msg.content ===  "madden 08"){
+    if(msg.content.includes("madden 08")){
         msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
     }
-    if(msg.content ===  "Madden 08"){
+    if(msg.content.includes("Madden 08")){
         msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
     }
-    if(msg.content ===  "madden '08"){
+    if(msg.content.includes("madden '08")){
         msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
     }
-    if(msg.content ===  "Madden '08"){
+    if(msg.content.includes("Madden '08")){
         msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
     }
-    if(msg.content ===  "madden 09"){
+    if(msg.content.includes("MADDEN 08")){
+        msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
+    }
+    if(msg.content.includes("MADDEN '08")){
+        msg.channel.sendMessage(`DID SOMEONE SAY PERFECTION? :heart_eyes: `);
+    }
+    if(msg.content.includes("madden 09")){
         msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
     }
-    if(msg.content ===  "Madden 09"){
+    if(msg.content.includes("Madden 09")){
         msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
     }
-    if(msg.content ===  "madden '09"){
+    if(msg.content.includes("madden '09")){
         msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
     }
-    if(msg.content ===  "Madden '09"){
+    if(msg.content.includes("Madden '09")){
         msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
+    }
+    if(msg.content.includes("MADDEN 09")){
+        msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
+    }
+    if(msg.content.includes("MADDEN '09")){
+        msg.channel.sendMessage(`DID SOMEONE SAY TERRIBLE? :D`);
+    }
+    if(msg.content.includes("burger king")){
+        msg.channel.sendMessage(`*I __ATE HERE.__*
+        
+https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJeDf1.jpg`);
+    }
+    if(msg.content.includes("Burger king")){
+        msg.channel.sendMessage(`*I __ATE HERE.__*
+        
+https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJeDf1.jpg`);
+    }
+    if(msg.content.includes("Burger King")){
+        msg.channel.sendMessage(`*I __ATE HERE.__*
+        
+https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJeDf1.jpg`);
+    }
+    if(msg.content.includes("BURGER KING")){
+        msg.channel.sendMessage(`*I __ATE HERE.__*
+        
+https://pbs.twimg.com/ext_tw_video_thumb/1139216636697894912/pu/img/_y-UE9Z7_zYJeDf1.jpg`);
     }
 })
 
