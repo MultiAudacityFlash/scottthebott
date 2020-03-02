@@ -37,7 +37,7 @@ class JoinChannelCommand extends commando.Command
                     message.reply("Someone summoned me?");
                     var server = server[message.guild.id];
                     server.queue.push(args);
-                    Play(connection, message);
+                    Scott, play Breakout.(connection, message);
                 })
         }
         else
