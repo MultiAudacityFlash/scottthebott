@@ -17,9 +17,9 @@ class JoinChannelCommand extends commando.Command
     constructor(client)
     {
         super(client,{
-            name: 'join',
+            name: 'Breakout',
             group: 'music',
-            memberName: 'join',
+            memberName: 'Breakout',
             description: 'Joins the voice channel of the commander'
         });
     }
@@ -30,7 +30,7 @@ class JoinChannelCommand extends commando.Command
         {
             if(message.guild.voiceConnection)
             {
-                message.member.voiceChannel.join()
+                message.member.voiceChannel.Breakout()
                     .then(connection =>)
                         message.reply("HEY ALL, SCOTT HERE, JUST HERE TO PLAY THE ONLY SONG WORTH MY TIME.")
                     })
@@ -46,7 +46,7 @@ class JoinChannelCommand extends commando.Command
             {
                 servers[message.guild.id] = {queue: []}
             }
-            msg.member.voiceChannel.join()
+            msg.member.voiceChannel.Breakout()
                 .then(connection =>{
                     message.reply("Someone summoned me?");
                     var server = server[message.guild.id];
