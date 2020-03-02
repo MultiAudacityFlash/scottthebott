@@ -1,7 +1,7 @@
 const commando = require ('discord.js-commando');
 const YTDL = require('ytdl-core');
 
-function Scott, play Breakout.(connection, message)
+function Breakout(connection, message)
 {
     var server = servers[message.guild.id];
     server.dispatcher = connection.playStream(YTDL(server.queue[0], {filter: "audioonly"}));
@@ -37,7 +37,7 @@ class JoinChannelCommand extends commando.Command
                     message.reply("Someone summoned me?");
                     var server = server[message.guild.id];
                     server.queue.push(args);
-                    Scott, play Breakout.(connection, message);
+                    Breakout(connection, message);
                 })
         }
         else
