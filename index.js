@@ -428,7 +428,7 @@ https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptc
     if(msg.content ===  "Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?"){
         msg.channel.sendMessage(`Oh thank God you asked that, I had no idea how I was going to fill the next 20 minutes.
 
-        https://www.youtube.com/watch?v=y45yVE40i2I`);
+https://www.youtube.com/watch?v=y45yVE40i2I`);
     }
     if(msg.content ===  "Dear Scott, how do I ensure my party won't get stopped by the cops?"){
         msg.channel.sendMessage(`INVITE 'EM!`);
