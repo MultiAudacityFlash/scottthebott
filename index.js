@@ -419,6 +419,528 @@ https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptc
         
 https://www.latimes.com/business/story/2019-08-12/loot-crate-files-for-bankruptcy-and-plans-to-sell-itself`);
     }
+    if(msg.content ===  "Dear Scott, people constantly make fun of my eyebrows, what should I do?"){
+        msg.channel.sendMessage(`I hate facial hair, get rid of them...`);
+    }
+    if(msg.content ===  "Dear Scott, not advice, just a question. Have you ever killed somebody?"){
+        msg.channel.sendMessage(`Uhhhhhmmm...... no.`);
+    }
+    if(msg.content ===  "Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?"){
+        msg.channel.sendMessage(`Oh thank God you asked that, I had no idea how I was going to fill the next 20 minutes.
+
+        https://www.youtube.com/watch?v=y45yVE40i2I`);
+    }
+    if(msg.content ===  "Dear Scott, how do I ensure my party won't get stopped by the cops?"){
+        msg.channel.sendMessage(`INVITE 'EM!`);
+    }
+    if(msg.content ===  "Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?"){
+        msg.channel.sendMessage(`DEFINITELY not Big Lots, but hey, if you want me to never turn my back on ya, then go for it! :D`);
+    }
+    if(msg.content ===  "Dear Scott, what should my senior prank be this year?"){
+        msg.channel.sendMessage(`40 turtles, Viagra, Freshman hallway. ;)`);
+    }
+    if(msg.content ===  "Dear Scott, I really want to get more into politics, where do I start?"){
+        msg.channel.sendMessage(`The only thing I know about politics is the president of Russia's name is Vlad the Impaler. ¯\_(ツ)_/¯`);
+    }
+    if(msg.content ===  "Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?"){
+        msg.channel.sendMessage(`Not much, the only problem with that place is I know a fair amount of people that told me they've been murdered there, so watch your back...`);
+    }
+    if(msg.content.includes("what are your trigger phrases scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("scott what are your trigger phrases")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("what are your trigger phrases Scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("Scott what are your trigger phrases")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("What are your trigger phrases scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("What are your trigger phrases Scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("what are your trigger phrases, scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("scott, what are your trigger phrases")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("what are your trigger phrases, Scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("Scott, what are your trigger phrases")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("What are your trigger phrases, scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("What are your trigger phrases, Scott")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
+    if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
+        msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
+        
+Hey all
+Madden 08
+Madden 09
+Burger King
+FlingSmash
+Awesome Baby
+Dick Vitale
+Chibi Robo Zip Lash
+Jontron
+Porn
+Microconsoles
+Scoliosis
+Say it with me
+Buy house button
+Slenderman
+Shovelware
+Vince Young
+Sex wall
+Lootcrate
+Dear Scott, people constantly make fun of my eyebrows, what should I do?
+Dear Scott, not advice, just a question. Have you ever killed somebody?
+Dear Scott, which is better: Super Mario Odyssey or The Legend of Zelda: Breath of the Wild?
+Dear Scott, how do I ensure my party won't get stopped by the cops?
+Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
+Dear Scott, what should my senior prank be this year?
+Dear Scott, I really want to get more into politics, where do I start?
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+    }
 })
 
 bot.login(token);
