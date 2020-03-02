@@ -4,7 +4,7 @@ const YTDL = require('ytdl-core');
 function Breakout(connection, message)
 {
     var server = servers[message.guild.id];
-    server.dispatcher = connection.playStream(YTDL(server.queue[0], {filter: "audioonly"}));
+    server.dipatcher = connection.playStream(YTDL(server.queue[0], {filter: "audioonly"}));
     server.queue.shift();
     server.dipatcher.on("end", function(){
         connection.disconnect();
@@ -26,6 +26,20 @@ class JoinChannelCommand extends commando.Command
 
     async run (message, args)
     {
+        if (message.member.voiceChannel)
+        {
+            if(message.guild.voiceConnection)
+            {
+                message.member.voiceChannel.join()
+                    .then(connection =>)
+                        message.reply("HEY ALL, SCOTT HERE, JUST HERE TO PLAY THE ONLY SONG WORTH MY TIME.")
+                    })
+            }
+        }
+        else
+        {
+            message.reply("I don't like being alone in voice chat, my doctor says I shouldn't be alone with my thoughts if I don't want to kill anymore innocent Chibi Robo Zip Lash copies... ````INNOCENT.````");
+        }
         if(msg.guild.voice)
         {
             if(servers[message.guild.id])
