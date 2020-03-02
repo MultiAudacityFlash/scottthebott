@@ -3,6 +3,8 @@ const bot = new Discord.Client();
 
 const token = 'NjgzNTY1OTM1MDUxMDE0MTQ0.Xltbfw.MtWf-tI8sr0SkXpAQe0QpIDI_Ro'
 
+global.servers = [];
+
 bot.on('ready', () =>{
     console.log('Hey all, Scott here!');
     bot.user.setGame(`Madden '08`)
