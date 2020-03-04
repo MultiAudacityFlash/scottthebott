@@ -478,7 +478,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -513,7 +514,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("what are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -548,7 +550,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("Scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -583,7 +586,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("What are your trigger phrases scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -618,7 +622,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("What are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -653,7 +658,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("what are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -688,7 +694,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -723,7 +730,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("what are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -758,7 +766,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("Scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -793,7 +802,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("What are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -828,7 +838,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("What are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -863,7 +874,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -898,7 +910,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -933,7 +946,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -968,7 +982,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -1003,7 +1018,8 @@ Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
 Anna May
 Wii Play
 N64 controller
-Dreamcast controller`);
+Dreamcast controller
+St. Luke's Hospital`);
     }
     if(msg.content.includes("Anna May")){
         msg.channel.sendMessage(`...
@@ -1088,6 +1104,54 @@ Dreamcast controller`);
     }
     if(msg.content.includes("DREAMCAST CONTROLLER")){
         msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("st lukes hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St lukes hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("st. lukes hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St. lukes hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St Lukes Hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St. Lukes Hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("st luke's hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St luke's hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("st. luke's hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St. luke's hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St Luke's Hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("St. Luke's Hospital")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("ST LUKES HOSPITAL")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("ST. LUKES HOSPITAL")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("ST LUKE'S HOSPITAL")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("ST. LUKE'S HOSPITAL")){
+        msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
     }
 })
 
