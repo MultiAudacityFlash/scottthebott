@@ -474,7 +474,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -505,7 +509,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("what are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -536,7 +544,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("Scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -567,7 +579,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("What are your trigger phrases scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -598,7 +614,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("What are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -629,7 +649,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("what are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -660,7 +684,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -691,7 +719,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("what are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -722,7 +754,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("Scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -753,7 +789,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("What are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -784,7 +824,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("What are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -815,7 +859,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -846,7 +894,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -877,7 +929,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -908,7 +964,11 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
     }
     if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -939,8 +999,97 @@ Dear Scott, how do I ensure my party won't get stopped by the cops?
 Dear Scott, my favorite grocery store's been shut down! Where should I get my food now?
 Dear Scott, what should my senior prank be this year?
 Dear Scott, I really want to get more into politics, where do I start?
-Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?`);
+Dear Scott, my favorite restaurant is Waffle House, what's wrong with me?
+Anna May
+Wii Play
+N64 controller
+Dreamcast controller`);
+    }
+    if(msg.content.includes("Anna May")){
+        msg.channel.sendMessage(`...
+    
+*WHAT THE F--K WAS THAT?!*`);
+    }
+    if(msg.content.includes("anna may")){
+        msg.channel.sendMessage(`...
+    
+*WHAT THE F--K WAS THAT?!*`);
+    }
+    if(msg.content.includes("ANNA MAY")){
+        msg.channel.sendMessage(`...
+    
+*WHAT THE F--K WAS THAT?!*`);
+    }
+    if(msg.content.includes("wii play")){
+        msg.channel.sendMessage(`~~is that a threat~~`);
+    }
+    if(msg.content.includes("Wii play")){
+        msg.channel.sendMessage(`~~is that a threat~~`);
+    }
+    if(msg.content.includes("Wii Play")){
+        msg.channel.sendMessage(`~~is that a threat~~`);
+    }
+    if(msg.content.includes("WII PLAY")){
+        msg.channel.sendMessage(`~~is that a threat~~`);
+    }
+    if(msg.content.includes("N64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("n64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("N64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("n64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("N64 CONTROLLER")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Nintendo64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("NINTENDO64 CONTROLLER")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("nintendo64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Nintendo64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("nintendo64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Nintendo 64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("nintendo 64 controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Nintendo 64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("nintendo 64 Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("NINTENDO 64 CONTROLLER")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("dreamcast controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Dreamcast controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("Dreamcast Controller")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
+    }
+    if(msg.content.includes("DREAMCAST CONTROLLER")){
+        msg.channel.sendMessage(`Yep, I don't like this controller. :D`);
     }
 })
+
 
 bot.login(token);
