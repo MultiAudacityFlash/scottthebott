@@ -479,7 +479,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -515,7 +516,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("what are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -551,7 +553,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("Scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -587,7 +590,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("What are your trigger phrases scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -623,7 +627,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("What are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -659,7 +664,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("what are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -695,7 +701,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -731,7 +738,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("what are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -767,7 +775,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("Scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -803,7 +812,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("What are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -839,7 +849,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("What are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -875,7 +886,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -911,7 +923,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -947,7 +960,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -983,7 +997,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -1019,7 +1034,8 @@ Anna May
 Wii Play
 N64 controller
 Dreamcast controller
-St. Luke's Hospital`);
+St. Luke's Hospital
+Illegal child birth gambling`);
     }
     if(msg.content.includes("Anna May")){
         msg.channel.sendMessage(`...
@@ -1152,6 +1168,26 @@ St. Luke's Hospital`);
     }
     if(msg.content.includes("ST. LUKE'S HOSPITAL")){
         msg.channel.sendMessage(`oh my GOD this room is crazy, F--K MY ARTERIES- SH-T IS THAT A PINBALL MACHINE, OH MY __GOD__ MY ASS IS BLEEDING :D`);
+    }
+    if(msg.content.includes("birth gambling")){
+        msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
+        
+https://youtu.be/wvtuRan042k`);
+    }
+    if(msg.content.includes("Birth gambling")){
+        msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
+        
+https://youtu.be/wvtuRan042k`);
+    }
+    if(msg.content.includes("Birth Gambling")){
+        msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
+        
+https://youtu.be/wvtuRan042k`);
+    }
+    if(msg.content.includes("BIRTH GAMBLING")){
+        msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
+        
+https://youtu.be/wvtuRan042k`);
     }
 })
 
