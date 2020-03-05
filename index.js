@@ -480,7 +480,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -517,7 +518,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("what are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -554,7 +556,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("Scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -591,7 +594,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("What are your trigger phrases scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -628,7 +632,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("What are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -665,7 +670,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("what are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -702,7 +708,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -739,7 +746,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("what are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -776,7 +784,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("Scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -813,7 +822,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("What are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -850,7 +860,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("What are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -887,7 +898,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -924,7 +936,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -961,7 +974,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -998,7 +1012,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -1035,7 +1050,8 @@ Wii Play
 N64 controller
 Dreamcast controller
 St. Luke's Hospital
-Illegal child birth gambling`);
+Illegal child birth gambling
+Scott, what are your thoughts on Sonic 2?`);
     }
     if(msg.content.includes("Anna May")){
         msg.channel.sendMessage(`...
@@ -1188,6 +1204,90 @@ https://youtu.be/wvtuRan042k`);
         msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
         
 https://youtu.be/wvtuRan042k`);
+    }
+    if(msg.content.includes("thoughts on sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on Sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on Sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on Sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on Sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of Sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of Sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of Sonic 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of Sonic2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on Sonic the Hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("thoughts on Sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on Sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Thoughts on Sonic the Hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of Sonic the Hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("think of Sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of Sonic the hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("Think of Sonic the Hedgehog 2")){
+        msg.channel.sendMessage(`~~fucking Tails.~~`);
     }
 })
 
