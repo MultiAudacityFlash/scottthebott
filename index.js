@@ -481,7 +481,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -519,7 +520,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("what are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -557,7 +559,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("Scott what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -595,7 +598,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("What are your trigger phrases scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -633,7 +637,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("What are your trigger phrases Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -671,7 +676,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("what are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -709,7 +715,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -747,7 +754,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("what are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -785,7 +793,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("Scott, what are your trigger phrases")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -823,7 +832,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("What are your trigger phrases, scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -861,7 +871,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("What are your trigger phrases, Scott")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -899,7 +910,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES, SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -937,7 +949,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("WHAT ARE YOUR TRIGGER PHRASES SCOTT")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -975,7 +988,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("SCOTT WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -1013,7 +1027,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("SCOTT, WHAT ARE YOUR TRIGGER PHRASES")){
         msg.channel.sendMessage(`SO glad you asked that, I've always wanted to share what triggers my limited vocabulary. :D
@@ -1051,7 +1066,8 @@ N64 controller
 Dreamcast controller
 St. Luke's Hospital
 Illegal child birth gambling
-Scott, what are your thoughts on Sonic 2?`);
+Scott, what are your thoughts on Sonic 2?
+What is the rarest game of all time?`);
     }
     if(msg.content.includes("Anna May")){
         msg.channel.sendMessage(`...
@@ -1288,6 +1304,30 @@ https://youtu.be/wvtuRan042k`);
     }
     if(msg.content.includes("Think of Sonic the Hedgehog 2")){
         msg.channel.sendMessage(`~~fucking Tails.~~`);
+    }
+    if(msg.content.includes("rarest game")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("Rarest Game")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("RAREST GAME")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("rarest of games")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("Rarest of games")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("Rarest of Games")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("Rarest Of Games")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
+    }
+    if(msg.content.includes("RAREST OF GAMES")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
     }
 })
 
