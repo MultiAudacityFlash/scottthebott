@@ -1329,6 +1329,54 @@ https://youtu.be/wvtuRan042k`);
     if(msg.content.includes("RAREST OF GAMES")){
         msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/648871885093994516/685280974434861092/unknown.png`);
     }
+    if(msg.content.includes("scott go fuck yourself")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("scott, go fuck yourself")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Scott go fuck yourself")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Scott, go fuck yourself")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("SCOTT GO FUCK YOURSELF")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("SCOTT, GO FUCK YOURSELF")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("go fuck yourself scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Go fuck yourself scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("go fuck yourself, scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Go fuck yourself, scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("go fuck yourself Scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("go fuck yourself, Scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Go fuck yourself Scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("Go fuck yourself, Scott")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("GO FUCK YOURSELF SCOTT")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
+    if(msg.content.includes("GO FUCK YOURSELF, SCOTT")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/683571513462489099/685285960782577664/unknown.png`);
+    }
 })
 
 
