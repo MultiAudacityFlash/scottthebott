@@ -1206,6 +1206,11 @@ What is the rarest game of all time?`);
         
 https://youtu.be/wvtuRan042k`);
     }
+    if(msg.content.includes("birth Gambling")){
+        msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
+        
+https://youtu.be/wvtuRan042k`);
+    }
     if(msg.content.includes("Birth gambling")){
         msg.channel.sendMessage(`I have been ordered to issue an apology by the court of law. In no instance should child birth be linked to illegal gambling, and if there's one thing that makes childbirth a drag, it's illegal gambling. Please forgive me and don't set up a child birth off on your own. I must now stay at least 50 ft. away from any pregnant woman, and must complete 14 minutes of community service by informing the public on a much less problematic topic: game console births, and the titles that come with them- s**t, that's it?
         
