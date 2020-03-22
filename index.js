@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NjgzNTY1OTM1MDUxMDE0MTQ0.Xltbfw.MtWf-tI8sr0SkXpAQe0QpIDI_Ro'
+const token = 'INSERT TOKEN HERE'
 
 global.servers = [];
 
